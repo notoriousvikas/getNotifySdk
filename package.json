@@ -1,7 +1,19 @@
+
 {
-  "name": "getnotified",
+  "name": "@notoriousvikas/getnotified",
   "version": "1.0.0",
-  "description": "Official TypeScript/JavaScript SDK for getNotify notification service",
+  "description": "Official TypeScript/JavaScript SDK for GetNotify notification service",
+  "homepage": "https://github.com/notoriousvikas/getNotifySdk#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notoriousvikas/getNotifySdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/notoriousvikas/getNotifySdk/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "type": "module",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -32,7 +44,7 @@
     "in-app",
     "typescript"
   ],
-  "author": "getNotify",
+  "author": "GetNotify",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.12.7",
