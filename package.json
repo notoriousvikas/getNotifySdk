@@ -1,7 +1,7 @@
 
 {
-  "name": "@notoriousvikas/getnotified",
-  "version": "1.0.0",
+  "name": "getnotified",
+  "version": "1.0.1",
   "description": "Official TypeScript/JavaScript SDK for GetNotify notification service",
   "homepage": "https://github.com/notoriousvikas/getNotifySdk#readme",
   "repository": {
